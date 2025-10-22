@@ -109,6 +109,10 @@ Bu adım, chroma_db_tarifler dizinini ve vektör veritabanını oluşturur.
 
 Yerel Ortam İçin Basitleştirilmiş Çalıştırma: Eğer Colab'de ./chroma_db_tarifler klasörünü sıkıştırıp (zip) indirdiyseniz ve projenizin ana dizinine çıkardıysanız, bu adımı atlayabilirsiniz. Aksi takdirde, Colab'deki 2. adımı (Veri Seti Hazırlama, Parçalama ve ChromaDB Oluşturma) çalıştıracak bir setup_db.py dosyası oluşturup bir kere çalıştırmalısınız.
 
+İletişim
+Proje ile ilgili sorularınız için iletişime geçebilirsiniz.
+
+GitHub: github.com/dogakusun
 ###Adım 5: Streamlit Uygulamasını Başlatma
 
 streamlit run app.py
