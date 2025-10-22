@@ -118,3 +118,10 @@ Uygulama, tarayıcınızda http://localhost:8501 adresinde açılacaktır.
 Proje ile ilgili sorularınız için iletişime geçebilirsiniz.
 
 GitHub: github.com/dogakusun
+
+Yemek-Tarifleri-RAG-Chatbotu/
+├── app.py                      
+├── notebook_kodlari.ipynb      
+├── requirements.txt            
+├── chroma_db_tarifler/         
+└── README.md                   
