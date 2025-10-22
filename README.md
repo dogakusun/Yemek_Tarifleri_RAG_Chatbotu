@@ -45,5 +45,5 @@ Projeyi kendi ortamınızda çalıştırmak için aşağıdaki adımları takip 
 
 ```bash
 git clone (https://github.com/dogakusun/Yemek_Tarifleri_RAG_Chatbotu)
-cd REPO_ADINIZ # (Yemek_Tarifleri_RAG_Chatbotu)
+cd (Yemek_Tarifleri_RAG_Chatbotu)
 
